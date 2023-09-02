@@ -16,7 +16,7 @@ function app() {
 
 	function searchRepositories() {
 		const inputValue = input.value;
-		if (inputValue) {
+		if (inputValue && inputValue[0] != " ") {
 			clearDropDownMenu();
 			getRepositories(inputValue);
 		} else {
