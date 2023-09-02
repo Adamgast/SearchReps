@@ -1,2 +1,2 @@
 # SearchReps
-https://adamgast.github.io/SearchReps/
+Link to app => https://adamgast.github.io/SearchReps/
