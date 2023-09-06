@@ -1,8 +1,9 @@
 # Практическая задача JS Core 4.4.9 
 ## Регистрируемся (Registration):
-![screen](https://github.com/{Adamgast}/{SearchReps}/raw/{jscore4_4_9}/{path}/image.png)
+![image](https://github.com/Adamgast/SearchReps/assets/92505201/ff23f93a-2f54-4bca-87eb-69c3c840e453)
+
 ## Логинимся (Authentication):
-![screen](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![image](https://github.com/Adamgast/SearchReps/assets/92505201/3cd6be31-e0f1-4d37-83fc-800879421e87)
+
 ## Используя заголовок авторизации получить данные текущего пользователя (Endpoints -> Get Current User):
-![screen](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-![image](https://github.com/Adamgast/SearchReps/assets/92505201/919aca0d-6097-4a13-9863-20c8b148e7a5)
+![image](https://github.com/Adamgast/SearchReps/assets/92505201/cc246bb3-e82a-4d6a-81f9-4758c0929133)
